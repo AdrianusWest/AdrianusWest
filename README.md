@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianusWest&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdrianusWest&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdrianusWest&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdrianusWest&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdrianusWest&theme=nord_dark&utcOffset=8)
