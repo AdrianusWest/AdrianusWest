@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdrianusWest&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdrianusWest&theme=nord_dark&utcOffset=3)
 
+---
 
 ### Здравствуй, гость! ![Посетители](https://visitor-badge.glitch.me/badge?page_id=AdrianusWest)
 
@@ -31,8 +32,7 @@ Here are some ideas to get you started:
 
 *E-mail: adrian.carver@yandex.ru*
 
-
-
+---
 
 ### Welcome, guest! ![Visitors](https://visitor-badge.glitch.me/badge?page_id=AdrianusWest) 
 
