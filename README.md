@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Здравствуй, гость! ![Посетители](https://visitor-badge.glitch.me/badge?page_id=AdrianusWest)
+### Здравствуй, гость!
 
 - 🔭 В настоящее время я работаю над проектами, указанными в моих репозиториях. 
 - 🌱 Изучаю Python. Рассматриваю Rust в качестве второго языка программирования. Разумеется, одновременно с языками я осваиваю так же сопутствующие современные инструменты разработчика, которые могут мне понадобиться либо являются интересными.
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Welcome, guest! ![Visitors](https://visitor-badge.glitch.me/badge?page_id=AdrianusWest) 
+### Welcome, guest!
 
 - 🔭 I'm currently working on the projects posted in my repositories. 
 - 🌱 I'm currently learning Python. Second language I'm considering Rust for myself. Of course, in parallel with the languages, I'm also learning the related modern developer tools that I might need or be interested in.
